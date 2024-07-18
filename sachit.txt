@@ -1,1 +1,17 @@
 This is a test
+Attaching a code for python on walrus operator:- 
+
+#walrus oper.
+foods=list()
+while food:=input("what food do u like? ")!="quit":
+    foods.append(food)
+
+#func to var====>
+def hello():
+    print("hellooo")
+hi=hello
+#hi()
+#hello()
+
+say=print
+say("yayayyyy this workkksss")
